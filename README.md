@@ -71,5 +71,5 @@ terraform destroy
 ## Author
 
 Bidemi Olawumi — Cloud Security Engineer
-LinkedIn: https://linkedin.com/in/sammyboy80
+LinkedIn: https://linkedin.com/in/bidemi-ola
 EOF
